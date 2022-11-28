@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm biological sciente studen in Brazil, with emphasis on the area of bioinformatcs and immunogenetics. Futhermore i'm doing scientific research at FIOCRUZ/BA.
+I'm biological sciente student in Brazil, with emphasis on the area of bioinformatcs and immunogenetics. Futhermore i'm doing scientific research at FIOCRUZ/BA.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-vinagre-56847a246/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunovinr/)
